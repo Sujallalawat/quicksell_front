@@ -1,0 +1,16 @@
+.navbarContainer{
+    display: flex;
+    align-items: center;
+    height: 60px;
+    background-color: white;
+    padding-left: 30px;
+}
+.tagContainer{
+    border-style: solid;
+    border-color:#eeeeee;
+    border-radius: 10px;
+    border-width: 2px;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+}
